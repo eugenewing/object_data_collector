@@ -1,0 +1,4 @@
+.mql-auto-forwards/
+compile_commands.json
+*.ex4
+*.log
