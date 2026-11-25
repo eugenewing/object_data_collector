@@ -3,3 +3,4 @@
 compile_commands.json
 *.ex4
 *.log
+Backup/
